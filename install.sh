@@ -21,4 +21,4 @@ cd arduino-nightly
 sudo ./install.sh
 
 sudo apt-get update -qq
-sudo apt-get install -yy vim virtualbox python3-pip wireshark putty git nmap filezilla webcamoid tesseract-ocr imagemagick gnome-screenshot xclip
+sudo apt-get install -yy vim virtualbox python3-pip wireshark putty git nmap webcamoid tesseract-ocr imagemagick gnome-screenshot xclip ripgrep
